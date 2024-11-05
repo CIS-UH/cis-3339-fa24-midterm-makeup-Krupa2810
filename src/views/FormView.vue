@@ -1,3 +1,5 @@
+<!--REFERENCES:- CHATGPT - How to convert code from options to composition API? Can you help me convert the code to Composition API.-->
+
 <template>
     <div>
       <form @submit.prevent="fetchRemoteData">
